@@ -36,19 +36,6 @@ Welcome to **Minishell**, a project where we built our own simple shell, learnt 
    ```sh
    ./minishell
    ```
-
----
-## 🛠 Functions Overview
-| Function Name  | Description |
-|--------------|-------------|
-| `init_shell()` | Initializes shell environment. |
-| `read_input()` | Reads user input using `readline()`. |
-| `parse_command()` | Tokenizes input into arguments and operators. |
-| `execute_builtin()` | Executes built-in shell commands. |
-| `handle_pipes()` | Manages command execution with pipes. |
-| `redirect_io()` | Implements input/output redirection. |
-| `cleanup_resources()` | Frees memory before exiting. |
-
 ---
 ## 🖥 Shell Features
 1. **Command Execution**
