@@ -1,6 +1,5 @@
-# Minishell - Your Own Little Bash
+# Minishell - Our Little Bash
 # <img src="https://github.com/TeomanDeniz/TeomanDeniz/blob/main/images/repo_projects/125.png" style="width: 75PX;"> 
-# Minishell
 
 Welcome to **Minishell**, a project where we built our own simple shell, learnt about **processes, file descriptors, and command execution** along the way.
 
